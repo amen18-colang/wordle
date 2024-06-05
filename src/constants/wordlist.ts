@@ -34,17 +34,16 @@ export const WORDS = [
 'noses',
 'beast',
 'skill',
-'cinder',
 'block',
 'zebra',
 'sloth',
 'tiger',
-'birds'
+'birds',
 'white',
 'black',
 'brown',
 'pinks',
-'kicks'
+'kicks',
 ]
 
 if (CONFIG.normalization) {
